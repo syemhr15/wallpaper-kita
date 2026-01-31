@@ -88,10 +88,3 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal And
 - **Prodi**: Sistem Informasi
 - **Instansi**: Institut Teknologi Garut
 
-## Kontribusi
-
-Kontribusi selalu diterima. Silakan buat *Pull Request* atau laporkan masalah melalui *Issues*.
-
-## Lisensi
-
-Proyek ini bersifat open-source dan dilisensikan di bawah MIT license.
