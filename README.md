@@ -10,25 +10,32 @@ Aplikasi ini bertujuan untuk memudahkan pengguna dalam mengumpulkan dan mengelol
 **Target Pengguna:**
 Aplikasi ini ditujukan bagi siapa saja yang menyukai fotografi, desain, atau sekadar ingin mempercantik tampilan layar perangkat mereka dengan gambar-gambar estetik dan ingin menyimpannya dalam koleksi pribadi yang terorganisir.
 
-## Fitur Utama
+## Fitur Utama dan screen shoot aplikasi
 
 Aplikasi ini memiliki fungsionalitas utama yang diatur dalam `WallpaperController`:
 
 - **Simpan Wallpaper (`store`)**:
-  Menyimpan data wallpaper baru ke dalam database yang terhubung dengan akun pengguna yang sedang login. Data yang disimpan meliputi:
-  - ID Pengguna (`user_id`)
-  - Nama Fotografer (`photographer`)
-  - URL Gambar (`image_url`)
-  - Tautan Unsplash (`unsplash_link`)
+  Menyimpan data wallpaper baru ke dalam database yang terhubung dengan akun pengguna yang sedang login.
+
+<img width="1366" height="768" alt="Screenshot (611)" src="https://github.com/user-attachments/assets/3c5d1eff-6421-495a-90f5-b56434e78b25" />
 
 - **Koleksi Saya (`index`)**:
   Menampilkan daftar seluruh wallpaper yang telah disimpan oleh pengguna. Menggunakan view `koleksi`.
+<img width="1366" height="768" alt="Screenshot (612)" src="https://github.com/user-attachments/assets/1fc58391-d60d-4906-a636-6731160ccc3b" />
 
 - **Pencarian Wallpaper**:
   Menyediakan fitur *search bar* yang memudahkan pengguna untuk mencari dan menemukan wallpaper spesifik di dalam koleksi mereka dengan cepat.
+<img width="1366" height="768" alt="Screenshot (611)" src="https://github.com/user-attachments/assets/70468d19-f716-4243-b7c2-49f2bfe615b0" />
 
 - **Hapus Wallpaper (`destroy`)**:
   Menghapus wallpaper dari koleksi secara aman. Sistem memverifikasi bahwa wallpaper yang akan dihapus benar-benar milik pengguna yang sedang login sebelum melakukan penghapusan.
+<img width="1366" height="768" alt="Screenshot (613)" src="https://github.com/user-attachments/assets/9eff7024-e2c8-44cb-a888-661ec95d046a" />
+
+- **Halaman login (`destroy`)**:
+  <img width="1366" height="768" alt="Screenshot (615)" src="https://github.com/user-attachments/assets/acb372ea-d2c5-4e79-b1ae-933a4daf07ae" />
+
+- **Halaman register (`destroy`)**:
+  <img width="1366" height="768" alt="Screenshot (617)" src="https://github.com/user-attachments/assets/c8593f0a-3aec-463c-abe9-723dbdbea884" />
 
 ## Sumber Data (Public API)
 
