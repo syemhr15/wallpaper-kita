@@ -20,21 +20,21 @@ Aplikasi ini memiliki fungsionalitas utama yang diatur dalam `WallpaperControlle
 
 
 - **Koleksi Saya (`index`)**:
-  Menampilkan daftar seluruh wallpaper yang telah disimpan oleh pengguna. Menggunakan view `koleksi`.
+  Menampilkan daftar seluruh wallpaper yang telah disimpan oleh pengguna.
 <img width="1366" height="768" alt="Screenshot (612)" src="https://github.com/user-attachments/assets/1fc58391-d60d-4906-a636-6731160ccc3b" />
 
 - **Pencarian Wallpaper**:
-  Menyediakan fitur *search bar* yang memudahkan pengguna untuk mencari dan menemukan wallpaper spesifik di dalam koleksi mereka dengan cepat.
+  Menyediakan fitur *search bar* yang memudahkan pengguna untuk mencari dan menemukan wallpaper dengan cepat.
 <img width="1366" height="768" alt="Screenshot (611)" src="https://github.com/user-attachments/assets/70468d19-f716-4243-b7c2-49f2bfe615b0" />
 
-- **Hapus Wallpaper (`destroy`)**:
-  Menghapus wallpaper dari koleksi secara aman. Sistem memverifikasi bahwa wallpaper yang akan dihapus benar-benar milik pengguna yang sedang login sebelum melakukan penghapusan.
+- **Hapus Wallpaper**:
+  Menghapus wallpaper dari koleksi
 <img width="1366" height="768" alt="Screenshot (613)" src="https://github.com/user-attachments/assets/9eff7024-e2c8-44cb-a888-661ec95d046a" />
 
-- **Halaman login (`destroy`)**:
+- **Halaman login**:
   <img width="1366" height="768" alt="Screenshot (615)" src="https://github.com/user-attachments/assets/acb372ea-d2c5-4e79-b1ae-933a4daf07ae" />
 
-- **Halaman register (`destroy`)**:
+- **Halaman register**:
   <img width="1366" height="768" alt="Screenshot (617)" src="https://github.com/user-attachments/assets/c8593f0a-3aec-463c-abe9-723dbdbea884" />
 
 ## Sumber Data (Public API)
