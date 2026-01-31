@@ -82,6 +82,9 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal And
    ```
    Akses aplikasi melalui browser di `http://localhost:8000`.
 
+
+**akhir kata.... tengs**
+
 ## Identitas Pengembang
 
 - **Nama**: Hisyam Abdillah Sumpena
