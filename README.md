@@ -16,8 +16,8 @@ Aplikasi ini memiliki fungsionalitas utama yang diatur dalam `WallpaperControlle
 
 - **Simpan Wallpaper (`store`)**:
   Menyimpan data wallpaper baru ke dalam database yang terhubung dengan akun pengguna yang sedang login.
+<img width="1366" height="768" alt="Screenshot (622)" src="https://github.com/user-attachments/assets/4e00c43a-1b14-4803-8266-f99a87d29b35" />
 
-<img width="1366" height="768" alt="Screenshot (611)" src="https://github.com/user-attachments/assets/3c5d1eff-6421-495a-90f5-b56434e78b25" />
 
 - **Koleksi Saya (`index`)**:
   Menampilkan daftar seluruh wallpaper yang telah disimpan oleh pengguna. Menggunakan view `koleksi`.
